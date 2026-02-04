@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace S10273422_PRG2Assignment
 {
-    internal class Customer
+    public class Customer
     {
 		private string emailAddress;
 

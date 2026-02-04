@@ -12,7 +12,7 @@ using System.Threading.Tasks;
 //==========================================================
 namespace S10273422_PRG2Assignment
 {
-	internal class OrderedFoodItem : FoodItem
+	public class OrderedFoodItem : FoodItem
 	{
 		private int qty;
 

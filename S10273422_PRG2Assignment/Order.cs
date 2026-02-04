@@ -13,7 +13,7 @@ using System.Threading.Tasks;
 //==========================================================
 namespace S10273422_PRG2Assignment
 {
-    internal class Order
+    public class Order
     {
 
         private int orderId;
